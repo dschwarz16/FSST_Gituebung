@@ -9,7 +9,7 @@ Zeitraum: ca. 2h Unterrichtsstunden zeit um das Programm zu schreiben.
 
 Lehrperson: Professor Markus Signitzer 
 
-Mitglieder: Hilscher Philipp, Daniel Schwarzenauer, Simeon Mair 
+Mitglieder: Hilscher Phillip, Daniel Schwarzenauer, Simeon Mair 
 
 Auftrag: Erstellen eines Miniprojekts der 1-2. Klasse 
 	 Verschiedene Funktionen von Github ausbrobieren/verstehen 
@@ -18,5 +18,9 @@ Projekt: Zahlenratespiel
 
 Projektbeschreibung:	 Zusammen wird ein mini Zahlenratespiel programmiert.
 			 Die Zahlen werden mittels Zufallsprinzip abgefragt und der 
-			 Benutzer soll die Zahl erraten. 
+			 Benutzer soll die Zahl erraten.
+
+Arbeitsaufteilung: 	 Projektbeschreibung README -> Daniel Schwarzenauer
+
+			 Programmierung des Spiels -> Simeon Mair, Phillip Hilscher
 
